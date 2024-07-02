@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/Counter.github.io/static/css/main.a0fd1836.css",
-    "main.js": "/github.io/Counter.github.io/static/js/main.2290e79d.js",
-    "index.html": "/github.io/Counter.github.io/index.html",
-    "main.a0fd1836.css.map": "/github.io/Counter.github.io/static/css/main.a0fd1836.css.map",
-    "main.2290e79d.js.map": "/github.io/Counter.github.io/static/js/main.2290e79d.js.map"
+    "main.css": "/Counter/static/css/main.a0fd1836.css",
+    "main.js": "/Counter/static/js/main.2290e79d.js",
+    "index.html": "/Counter/index.html",
+    "main.a0fd1836.css.map": "/Counter/static/css/main.a0fd1836.css.map",
+    "main.2290e79d.js.map": "/Counter/static/js/main.2290e79d.js.map"
   },
   "entrypoints": [
     "static/css/main.a0fd1836.css",
