@@ -2,7 +2,7 @@
   "name": "counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jgotti1/Counter.github.io",
+  "homepage": "https://jgotti1/github.io/Counter.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
